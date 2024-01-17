@@ -163,7 +163,7 @@ const util = (() => {
             document.getElementById('weddingTitle').innerHTML = 'લગ્નનું આમંત્રણ';
             document.getElementById('brideName').innerHTML = 'આફરીન <br>&<br> હનીફ';
             document.getElementById('saveDate').innerHTML = 'તારીખ સાચવવા માટે અહીં ક્લિક કરો';
-            document.getElementById('dateTitle').innerHTML = 'રવિવાર, 03 ડિસેમ્બર, 2023';
+            document.getElementById('dateTitle').innerHTML = 'સોમવાર, 22 જાન્યુઆરી, 2024';
             document.getElementById('salamTitle').innerHTML = 'અસલામુઅલૈકુમ વરહમતુલ્લાહી વબરકાતુહુ';
             document.getElementById('respectTitle').innerHTML = 'બધા યોગ્ય આદર સાથે. અમે તમને અને તમારા પરિવારને આમંત્રિત કરીએ છીએ. કૃપા કરીને અમારા લગ્ન પ્રસંગમાં હાજરી આપજો:';
             document.getElementById('sonName').innerHTML = 'હનીફ ચોરવાડા';
